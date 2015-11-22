@@ -1,0 +1,379 @@
+url,uid,desc
+/topics/3.htm,3,ATI
+/topics/9.htm,9,Apple 苹果
+/topics/13.htm,13,Adobe
+/topics/42.htm,42,AMD
+/topics/49.htm,49,AOL / AIM
+/topics/50.htm,50,Apple QuickTime
+/topics/53.htm,53,ACDSee
+/topics/59.htm,59,Apache OpenOffice
+/topics/66.htm,66,Apple iTunes / App Store
+/topics/79.htm,79,Apple Mac OS X
+/topics/93.htm,93,ASUS 华硕
+/topics/118.htm,118,Alcohol
+/topics/157.htm,157,安全
+/topics/158.htm,158,Apple Safari
+/topics/169.htm,169,AnyDVD
+/topics/183.htm,183,AutoDesk
+/topics/188.htm,188,Avant Browser
+/topics/325.htm,325,ARSwp Windows 清理助手
+/topics/343.htm,343,Apple iPod
+/topics/346.htm,346,avast! Antivirus
+/topics/356.htm,356,Ashampoo
+/topics/364.htm,364,Avira AntiVir
+/topics/370.htm,370,AVG Antivirus
+/topics/379.htm,379,Apple iPhone
+/topics/464.htm,464,Apple iPad
+/topics/535.htm,535,Apple Watch
+/topics/601.htm,601,Aliyun 阿里云
+/topics/77.htm,77,BitTorrent
+/topics/200.htm,200,BitSpirit 比特精灵
+/topics/209.htm,209,BitComet
+/topics/232.htm,232,BlackIce
+/topics/261.htm,261,Baidu 百度
+/topics/282.htm,282,Baidu 百度音乐 / 千千静听
+/topics/376.htm,376,Bluetooth 蓝牙
+/topics/377.htm,377,Blu-Ray Disc 蓝光
+/topics/400.htm,400,Blog 博客
+/topics/411.htm,411,BlackBerry 黑莓
+/topics/414.htm,414,BitDefender
+/topics/419.htm,419,Blizzard 暴雪
+/topics/105.htm,105,CA technologies
+/topics/125.htm,125,cnBeta 原创独家
+/topics/135.htm,135,cnBeta 人物 - Bill Gates
+/topics/165.htm,165,cnBeta 七日谈
+/topics/186.htm,186,CloneCD / CloneDVD
+/topics/219.htm,219,Counter-Strike 反恐精英 / 半条命
+/topics/228.htm,228,Cisco 思科
+/topics/245.htm,245,cnBeta 精品软件
+/topics/246.htm,246,cnBeta 精品驱动
+/topics/260.htm,260,cnBeta 最新消息
+/topics/291.htm,291,cnBeta 团队新闻
+/topics/293.htm,293,cnBeta 精品网站
+/topics/294.htm,294,CuteFTP
+/topics/306.htm,306,cnBeta 访客互动
+/topics/311.htm,311,cnBeta 博客文摘
+/topics/316.htm,316,China Telecom 中国电信
+/topics/348.htm,348,China Mobile 中国移动
+/topics/350.htm,350,CCleaner
+/topics/357.htm,357,CyberLink PowerDVD
+/topics/358.htm,358,China Mobile Fetion 飞信
+/topics/391.htm,391,China Unicom 中国联通
+/topics/420.htm,420,comsenz 康盛创想 / Discuz!
+/topics/424.htm,424,CHINA 中国
+/topics/425.htm,425,cFos Software
+/topics/430.htm,430,cnBeta 现场报道
+/topics/432.htm,432,Creative 创新
+/topics/466.htm,466,cnBeta 专栏
+/topics/472.htm,472,Cheetah 猎豹移动 / 金山安全
+/topics/479.htm,479,cnBeta 评测室
+/topics/525.htm,525,Coocaa 创维酷开
+/topics/82.htm,82,DELL 戴尔
+/topics/121.htm,121,DVD
+/topics/191.htm,191,DAEMON Tools
+/topics/218.htm,218,DreamMail 梦幻快车
+/topics/253.htm,253,DivX Codec
+/topics/256.htm,256,电子商务 - C2C
+/topics/281.htm,281,电子商务 - 支付平台
+/topics/353.htm,353,电子商务 - B2C / B2B
+/topics/431.htm,431,Debian GNU/Linux
+/topics/54.htm,54,eMule
+/topics/171.htm,171,emEditor
+/topics/194.htm,194,email 电子邮件
+/topics/229.htm,229,Edit+
+/topics/449.htm,449,EA Games
+/topics/36.htm,36,FTPRush
+/topics/72.htm,72,FlashFXP
+/topics/104.htm,104,FreeBSD
+/topics/108.htm,108,foobar2000
+/topics/166.htm,166,Flashget 快车
+/topics/189.htm,189,FileZilla
+/topics/262.htm,262,FlashBT
+/topics/277.htm,277,Foxit Reader 福昕阅读器
+/topics/280.htm,280,FeedDemon
+/topics/363.htm,363,FastStone
+/topics/435.htm,435,Flock
+/topics/470.htm,470,Foxconn 富士康
+/topics/52.htm,52,Google 谷歌
+/topics/101.htm,101,GNOME
+/topics/126.htm,126,GreenBrowser
+/topics/142.htm,142,Google Buzz / Google Wave
+/topics/192.htm,192,Google Toolbar
+/topics/215.htm,215,Google Gmail
+/topics/257.htm,257,Google Hangouts / Talk
+/topics/275.htm,275,GoSURF
+/topics/326.htm,326,Google GLASS
+/topics/347.htm,347,Google Maps 地图 / Earth
+/topics/373.htm,373,Google YouTube
+/topics/443.htm,443,Google Chrome 谷歌浏览器
+/topics/444.htm,444,Google Android
+/topics/486.htm,486,Google Plus
+/topics/493.htm,493,Google Drive
+/topics/71.htm,71,Hasee 神舟
+/topics/122.htm,122,HyperSnap
+/topics/150.htm,150,Hewlett-Packard 惠普
+/topics/331.htm,331,Huawei 华为
+/topics/439.htm,439,HTC
+/topics/32.htm,32,Intel 英特尔
+/topics/58.htm,58,ICQ
+/topics/87.htm,87,IBM
+/topics/100.htm,100,Intel Atom
+/topics/159.htm,159,Intel Core 英特尔酷睿
+/topics/175.htm,175,IT与体育
+/topics/354.htm,354,Internet Download Manager
+/topics/403.htm,403,IM 即时通信
+/topics/416.htm,416,InstallShield
+/topics/421.htm,421,IT与交通
+/topics/484.htm,484,iFlyTek 科大讯飞
+/topics/45.htm,45,警告!
+/topics/89.htm,89,KDE Linux
+/topics/102.htm,102,Kingsoft 金山
+/topics/133.htm,133,Kaspersky 卡巴斯基
+/topics/409.htm,409,KV 江民杀毒软件
+/topics/415.htm,415,K-Meleon
+/topics/426.htm,426,Kodak 柯达
+/topics/448.htm,448,科学探索
+/topics/476.htm,476,Kingsoft 金山快快
+/topics/481.htm,481,Kanbox 酷盘
+/topics/28.htm,28,历史 - Messenger Plus!
+/topics/40.htm,40,历史 - Macromedia
+/topics/44.htm,44,历史 - Sun
+/topics/83.htm,83,LG
+/topics/84.htm,84,历史 - Napster
+/topics/95.htm,95,Linux
+/topics/103.htm,103,Logitech 罗技
+/topics/114.htm,114,历史 - NetCaptor
+/topics/120.htm,120,历史 - TGTSoft StyleXP
+/topics/124.htm,124,历史 - AOL Netscape
+/topics/181.htm,181,历史 - MSN Messenger
+/topics/199.htm,199,历史 - Microsoft Encarta
+/topics/222.htm,222,Lycos 莱科斯
+/topics/239.htm,239,Lenovo 联想
+/topics/269.htm,269,历史 - Windows 桌面搜索
+/topics/292.htm,292,历史 - 风雷软件
+/topics/296.htm,296,历史 - Mess Patch
+/topics/312.htm,312,历史 - Windows Live Spaces
+/topics/319.htm,319,Lingoes 灵格斯
+/topics/362.htm,362,历史 - CNC 中国网通
+/topics/367.htm,367,历史 - Mozilla Sunbird
+/topics/405.htm,405,历史 - CoralQQ 珊瑚虫
+/topics/408.htm,408,历史 - HD-DVD / EVD
+/topics/434.htm,434,历史 - Sony-Ericsson 索尼爱立信
+/topics/2.htm,2,MSN
+/topics/4.htm,4,Microsoft 微软
+/topics/7.htm,7,Microsoft Office 2003
+/topics/15.htm,15,Mozilla 谋智网络
+/topics/19.htm,19,媒体播放器 / 视频网站
+/topics/20.htm,20,媒体播放器 - AOL Winamp
+/topics/27.htm,27,Microsoft Visual Studio
+/topics/31.htm,31,Microsoft Edge / IE
+/topics/33.htm,33,Microsoft SQL Server
+/topics/34.htm,34,Microsoft DirectX
+/topics/43.htm,43,MySQL
+/topics/47.htm,47,Microsoft .NET
+/topics/57.htm,57,Maxthon 傲游
+/topics/61.htm,61,Microsoft Bing 必应
+/topics/67.htm,67,mIRC
+/topics/73.htm,73,Mandriva Linux
+/topics/75.htm,75,McAfee
+/topics/85.htm,85,Microsoft XBOX
+/topics/86.htm,86,Microsoft Skype
+/topics/153.htm,153,Microsoft 法律相关
+/topics/155.htm,155,Microsoft 服务器相关
+/topics/163.htm,163,Mozilla FireFox
+/topics/177.htm,177,Microsoft TechNet / MSDN
+/topics/179.htm,179,Microsoft Office for Mac
+/topics/187.htm,187,MindSoft
+/topics/207.htm,207,Microsoft 硬件
+/topics/210.htm,210,MSN Shell
+/topics/211.htm,211,Microsoft Office 2013
+/topics/214.htm,214,Mozilla ThunderBird
+/topics/223.htm,223,Microsoft Hyper-V Server
+/topics/227.htm,227,Microsoft Groove / Win Media
+/topics/251.htm,251,Microsoft 会议
+/topics/263.htm,263,Microsoft Office
+/topics/265.htm,265,Microsoft Office 2007
+/topics/303.htm,303,媒体播放器 - PPTV
+/topics/308.htm,308,Microsoft Zune
+/topics/315.htm,315,媒体播放器 - KMPlayer
+/topics/322.htm,322,媒体播放器 - ToToLook 偷偷看
+/topics/329.htm,329,Microsoft Expression
+/topics/340.htm,340,媒体播放器 - GOM Player
+/topics/345.htm,345,媒体播放器 - UUSEE 悠视
+/topics/359.htm,359,Microsoft Silverlight
+/topics/361.htm,361,Microsoft Outlook / Hotmail
+/topics/365.htm,365,媒体播放器 - Lame
+/topics/23.htm,23,Nero
+/topics/55.htm,55,NVIDIA
+/topics/90.htm,90,Novell
+/topics/123.htm,123,Net Transport 网络传送带
+/topics/147.htm,147,NOKIA 诺基亚
+/topics/182.htm,182,NVIDIA ForceWare
+/topics/203.htm,203,Netease 网易即时通 / 易信 / 云信 / POPO
+/topics/276.htm,276,NetEase 网易
+/topics/330.htm,330,nod32 Antivirus
+/topics/360.htm,360,nLite / vLite
+/topics/442.htm,442,Nikon 尼康
+/topics/459.htm,459,NetEase 网易有道
+/topics/48.htm,48,Opera / 欧朋浏览器
+/topics/160.htm,160,Oracle Java
+/topics/212.htm,212,Outpost Firewall
+/topics/244.htm,244,Oracle 甲骨文
+/topics/283.htm,283,Open Source 开源
+/topics/393.htm,393,OpenBSD
+/topics/463.htm,463,oppo 欧珀
+/topics/478.htm,478,Oray 花生壳
+/topics/21.htm,21,PHP
+/topics/107.htm,107,Palm
+/topics/134.htm,134,Panda Software 熊猫反病毒
+/topics/152.htm,152,PHILIPS 飞利浦
+/topics/270.htm,270,Paint.NET
+/topics/352.htm,352,PHPWind
+/topics/452.htm,452,Panasonic 松下电器
+/topics/208.htm,208,Qihoo 奇虎鲁大师 / Windows优化大师
+/topics/300.htm,300,Qihoo 奇虎 360 安全卫士
+/topics/489.htm,489,QY 群英 CC 企业通讯
+/topics/490.htm,490,QY 群英网络
+/topics/8.htm,8,软件和应用
+/topics/37.htm,37,RedHat
+/topics/174.htm,174,Rising 瑞星
+/topics/337.htm,337,Raxco PerfectDisk
+/topics/368.htm,368,RedHat Fedora
+/topics/369.htm,369,人物 - Steve Jobs
+/topics/375.htm,375,人物 - Steve Ballmer
+/topics/388.htm,388,RSS
+/topics/412.htm,412,Returnil Virtual System
+/topics/428.htm,428,人物 - 马云
+/topics/453.htm,453,人物
+/topics/465.htm,465,软件 - Sogou 搜狗浏览器
+/topics/468.htm,468,RFID / 增强现实 / 物联网
+/topics/488.htm,488,人物 - Tim Cook
+/topics/498.htm,498,软件 - Cheetah 猎豹浏览器
+/topics/10.htm,10,视频网站 / 媒体播放器 - K-Lite (Mega)
+/topics/25.htm,25,Symantec 赛门铁克
+/topics/35.htm,35,视频网站 / 媒体播放器 - WinDVD
+/topics/46.htm,46,视频网站 / 媒体播放器 - MPC
+/topics/112.htm,112,SCO Unix
+/topics/115.htm,115,Stardock
+/topics/132.htm,132,视频网站 / 媒体播放器 - JetAudio
+/topics/145.htm,145,视频网站 / 媒体播放器 - Real
+/topics/151.htm,151,SuSE Linux / OpenSuSE
+/topics/176.htm,176,视频网站 / 媒体播放器 - VLC
+/topics/196.htm,196,视频网站 / 媒体播放器 - KazaA
+/topics/197.htm,197,SONY 索尼
+/topics/217.htm,217,Super Rabbit 超级兔子
+/topics/220.htm,220,Shanda 盛大网络
+/topics/221.htm,221,世界之窗浏览器
+/topics/224.htm,224,视频网站 / 媒体播放器 - Monkey's Audio
+/topics/226.htm,226,Seagate 希捷
+/topics/230.htm,230,Smartisan 锤子科技
+/topics/243.htm,243,手机
+/topics/267.htm,267,Serv-U
+/topics/302.htm,302,视频网站 / 媒体播放器 - PPS
+/topics/305.htm,305,视点·观察
+/topics/371.htm,371,Samsung 三星
+/topics/385.htm,385,Sogou 搜狗
+/topics/455.htm,455,SNS 社交网络
+/topics/457.htm,457,SHARP 夏普
+/topics/502.htm,502,手机 - 读者手机
+/topics/510.htm,510,手机 - UMI 优米
+/topics/511.htm,511,手机 - IUNI
+/topics/18.htm,18,Tencent 腾讯 QQ
+/topics/138.htm,138,通信技术
+/topics/173.htm,173,Tencent 腾讯其他产品
+/topics/204.htm,204,TuneUp Utilities
+/topics/237.htm,237,Trend Micro 趋势科技
+/topics/274.htm,274,Tencent 腾讯
+/topics/278.htm,278,TweakAssist 全能助手
+/topics/341.htm,341,TuoTu 脱兔
+/topics/344.htm,344,Total Commander
+/topics/372.htm,372,通信运营商
+/topics/422.htm,422,the United States 美国
+/topics/437.htm,437,通信技术 - 4G/LTE
+/topics/482.htm,482,Top10 十大
+/topics/68.htm,68,UltraEdit
+/topics/225.htm,225,UltraISO
+/topics/317.htm,317,Ubuntu
+/topics/339.htm,339,uTorrent
+/topics/446.htm,446,USB 通用串行总线
+/topics/458.htm,458,UC 优视浏览器
+/topics/461.htm,461,Updrv 驱动人生
+/topics/471.htm,471,UM 悠米视频聊天
+/topics/474.htm,474,unispim 紫光华宇拼音
+/topics/16.htm,16,VIA 威盛
+/topics/60.htm,60,VMware
+/topics/231.htm,231,VBulletin
+/topics/410.htm,410,Vista优化大师
+/topics/11.htm,11,Windows
+/topics/12.htm,12,Windows XP
+/topics/14.htm,14,Windows Server 2003
+/topics/17.htm,17,Windows 2000
+/topics/29.htm,29,Windows Small Business
+/topics/41.htm,41,Windows 次世代
+/topics/69.htm,69,WinACE
+/topics/76.htm,76,Windows 安全
+/topics/92.htm,92,WiFi
+/topics/94.htm,94,Windows + IE
+/topics/98.htm,98,WinRAR
+/topics/128.htm,128,网络应用 / Web Apps
+/topics/129.htm,129,Windows 通信网络
+/topics/131.htm,131,Windows 存储
+/topics/139.htm,139,Windows Media Center
+/topics/146.htm,146,WinZip
+/topics/180.htm,180,Windows Live Messenger
+/topics/184.htm,184,Windows Phone
+/topics/185.htm,185,Windows 个性化
+/topics/190.htm,190,Windows X
+/topics/241.htm,241,Windows Server
+/topics/247.htm,247,Windows Update
+/topics/248.htm,248,Windows Defender
+/topics/254.htm,254,Windows Vista
+/topics/259.htm,259,Windows Essentials
+/topics/264.htm,264,Windows Server 2008
+/topics/266.htm,266,Wikipedia 维基百科
+/topics/268.htm,268,Windows Live
+/topics/285.htm,285,Widgets 小工具 / 侧边栏
+/topics/320.htm,320,Windows Virtual PC
+/topics/332.htm,332,Windows 7
+/topics/334.htm,334,Windows Home Server
+/topics/335.htm,335,WineHQ
+/topics/349.htm,349,WordPress
+/topics/404.htm,404,WinPatrol 看门狗
+/topics/406.htm,406,WinMount
+/topics/427.htm,427,Windows 画图 / Fresh Paint
+/topics/480.htm,480,Windows 8
+/topics/501.htm,501,网络应用 - 115
+/topics/506.htm,506,Windows 8.1
+/topics/531.htm,531,Windows 10
+/topics/56.htm,56,系统工具
+/topics/168.htm,168,XnView
+/topics/318.htm,318,XunLei 迅雷
+/topics/487.htm,487,Xiaomi 小米科技
+/topics/507.htm,507,系统工具 - Magican Mac 优化
+/topics/39.htm,39,游戏
+/topics/70.htm,70,硬件
+/topics/91.htm,91,Yahoo! 雅虎
+/topics/144.htm,144,硬件 - 上网本 / 平板电脑 / 超极本
+/topics/451.htm,451,硬件 - 摄影器材
+/topics/467.htm,467,硬件 - RockChip 瑞芯微电子
+/topics/473.htm,473,Yunduan 边锋云端
+/topics/485.htm,485,应用 - Tongbu 同步助手
+/topics/491.htm,491,应用 - TouchPal 触宝
+/topics/492.htm,492,硬件 - Ramos 蓝魔
+/topics/494.htm,494,应用 - Shuame 刷机精灵
+/topics/495.htm,495,应用 - Camera 360
+/topics/496.htm,496,应用 - MyMoney 金蝶随手记
+/topics/499.htm,499,应用 - OnekeyROM 甜椒
+/topics/500.htm,500,应用 - Shendu 深度
+/topics/503.htm,503,应用 - PP助手
+/topics/504.htm,504,应用 - Shuame Root 精灵
+/topics/508.htm,508,应用 - 刷机大师
+/topics/513.htm,513,硬件 - Kaiboer 开博尔
+/topics/515.htm,515,应用 - 卓大师一键 Root
+/topics/523.htm,523,应用 - 卓大师 字体大师
+/topics/527.htm,527,应用 - 飞兔云传
+/topics/529.htm,529,硬件 - iMagic
+/topics/74.htm,74,Zonealarm
+/topics/517.htm,517,ZTE 中兴红牛
+/topics/519.htm,519,ZTE nubia 努比亚
+/topics/521.htm,521,ZTE 中兴
