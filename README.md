@@ -42,6 +42,7 @@ http://m.cnbeta.com/view_449839.htm
 
 这里面的http://www.cnbeta.com/topics/<font color="red">9</font>.htm 与query参数中的<font color="red">id=9</font>是一致的，换另外一句话说：
 如果我先抓取了所有的目录列表，并发的访问就可以获得想要的数据了。
+<img src="./imgs/jsonquery.png"> </img>
 
 
 <h1>四，结果:</h1>
