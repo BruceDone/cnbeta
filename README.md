@@ -1,18 +1,21 @@
 目标网站:http://www.cnbeta.com/
+<br>
 结果:首页最新消息的各个字段
 
 
 <h1>一，分析:</h1>
 在分析之前，首先下拉才会产生新的页面：调用的ajax的接口为：
 
- http://www.cnbeta.com/more?jsoncallback=jQuery180044874770450405777_1448195804536&type=all&page=2&csrf_token=408cb414554a80658710393c3c32d1b23dfef562&_=1448195823137
+http://www.cnbeta.com/more?jsoncallback=jQuery180044874770450405777_1448195804536&type=all&page=2&csrf_token=408cb414554a80658710393c3c32d1b23dfef562&_=1448195823137
+<br>
+type:类型
+<br>
+page:第几页
+<br>
+csrf_token:token 参考
+_ = 时间参数，由当前时间生成
 
- type:类型
- page:第几页
- csrf_token:token 参考
- _ = 时间参数，由当前时间生成
-
- 其中cstf_token 与_  参数生成值是具有一定的时间限制的和匹配性，任何一个参数不对直接导致调用失败.
+其中cstf_token 与_  参数生成值是具有一定的时间限制的和匹配性，任何一个参数不对直接导致调用失败.
 
 
 
@@ -43,6 +46,7 @@ http://m.cnbeta.com/view_449839.htm
 
 <h1>四，结果:</h1>
 cnbeta为实使化目录的文件夹
+<br>
 main文件夹是单独的一个py文件
 
 
