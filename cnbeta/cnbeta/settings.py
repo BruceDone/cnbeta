@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
-
+import json
+import os
 # Scrapy settings for cnbeta project
 #
 # For simplicity, this file contains only settings considered important or
@@ -8,6 +9,11 @@
 #     http://doc.scrapy.org/en/latest/topics/settings.html
 #     http://scrapy.readthedocs.org/en/latest/topics/downloader-middleware.html
 #     http://scrapy.readthedocs.org/en/latest/topics/spider-middleware.html
+
+def load_config():
+    cu = os.getcwd() + '\\info.json'
+    objs = json.load(open(cu, 'r'))
+    return objs
 
 BOT_NAME = 'cnbeta'
 
@@ -84,6 +90,5 @@ AUTOTHROTTLE_START_DELAY=5
 #HTTPCACHE_IGNORE_HTTP_CODES=[]
 #HTTPCACHE_STORAGE='scrapy.extensions.httpcache.FilesystemCacheStorage'
 
-INIT_TAG =[
-
-]
+JSON_TEMPLATE = 'http://www.cnbeta.com/topics/more?jsoncallback=jQuery180025747765181586146_1448074680464&page=1&id=%s&csrf_token=66726edea59f7cb303d0197407e9dde39d8b7903&_=1448074691275'
+PAGE_LIST = load_config()

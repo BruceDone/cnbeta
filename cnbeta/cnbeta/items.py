@@ -16,3 +16,23 @@ class CnbetaItem(scrapy.Item):
     desc = Field()
     uid = Field()
     pass
+
+
+class IndexItem(Item):
+    ratings = Field()
+    good = Field()
+    score_story = Field()
+    thumb = Field()
+    title = Field()
+    hometext = Field()
+    counter = Field()
+    comments = Field()
+    rate_sum = Field()
+    topic = Field()
+    ratings_story = Field()
+    bad = Field()
+    score = Field()
+    inputtime = Field()
+    sid = Field()
+    aid = Field()
+    url_show = Field()
