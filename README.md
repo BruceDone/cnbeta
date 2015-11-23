@@ -7,6 +7,13 @@
 <br>
 <img src="./imgs/cnbeta.png"> </img>
 
+<h1>2015-11-23 update</h1>
+<br>
+1.更新了多线程处理的方式，不过效率不会提高的更高
+<br>
+2.更新了spider 可以直接使用spider来抓取首页数据,命令为:scrapy crawl cnbeta_index 
+
+
 <h1>一,分析:</h1>
 在分析之前，首先下拉才会产生新的页面：调用的ajax的接口为:
 
